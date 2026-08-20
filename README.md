@@ -1,62 +1,343 @@
-<h1 align="center">Hi 👋, I'm Pranav Turkar</h1>
-<h3 align="center">A passionate Full-Stack Web Developer | Final-Year IT Engineering Student</h3>
+<!-- ===================== HERO ===================== -->
 
-- 🔭 I’m currently working on **MERN Stack & API Development**
-- 🌱 Actively learning **Power BI, SQL, and Data Analytics**
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, MongoDB, SQL**
-- 📫 Reach me at **pranavturkar13@gmail.com**
-- ⚡ Fun fact: **I love Anime and Web Series! 🎬🍿**
+<div align="center">
 
----
+# 👨‍💻 PRANAV
 
-### 🚀 **Languages & Technologies**
-#### 💻 **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### `Full-Stack Developer` • `AI/LLM Enthusiast` • `Software Engineer`
 
-#### 🌐 **Frontend Development**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+things+with+code+%F0%9F%92%BB;Turning+ideas+into+real+applications+%F0%9F%9A%80;Exploring+AI+%26+LLM+Engineering+%F0%9F%A4%96;Always+learning.+Always+building." alt="Typing Animation"/>
 
-#### 🧩 **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<br>
 
-#### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
 
-#### 📊 **Tools & Learning**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-### 🏆 **GitHub Stats**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PranavTurkar13&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTurkar13&theme=tokyonight" width="48%">
+<!-- ===================== CODING ANIMATION ===================== -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+# 🧑‍💻 `whoami`
+
+```python
+class Pranav:
+
+    def __init__(self):
+        self.name = "Pranav"
+        self.role = "Full-Stack Developer"
+        self.location = "Pune, India"
+        self.education = "BE Information Technology — 2026"
+
+        self.interests = [
+            "Software Engineering",
+            "Full-Stack Development",
+            "Artificial Intelligence",
+            "LLM Engineering",
+            "System Design"
+        ]
+
+        self.currently_learning = [
+            "RAG",
+            "LLM Engineering",
+            "Fine-Tuning",
+            "Generative AI",
+            "MLOps"
+        ]
+
+    def say_hi(self):
+        print("Let's build something awesome 🚀")
+```
+
+---
+
+# ⚡ About Me
+
+I'm an **Information Technology graduate** who enjoys turning ideas into working software.
+
+My journey started with programming fundamentals and web development, gradually moving toward **full-stack engineering** and now **AI/LLM engineering**.
+
+I like understanding how things work behind the scenes — not just making something work, but understanding the architecture, APIs, databases, authentication, deployment, and the engineering decisions behind it.
+
+```text
+Code → Build → Break → Debug → Learn → Improve → Repeat
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
----
+### ⚛️ Frontend
 
-### 🏅 **GitHub Trophies**
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PranavTurkar13&theme=tokyonight&margin-w=10">
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" />
+</p>
+
+### 🤖 AI / GenAI
+
+```text
+LLM Engineering
+RAG
+Prompt Engineering
+Fine-Tuning / QLoRA
+Generative AI
+AI Application Development
+MLOps
+GenAI System Design
+```
+
 ---
 
-### 🎖 **Holopin Badges**
-[![Holopin Badges](https://holopin.me/PranavTurkar13)](https://holopin.io/@PranavTurkar13)
+# 🚀 Things I've Built
+
+## 🩺 Prescripto
+
+**Doctor Appointment Booking System**
+
+A full-stack healthcare platform designed to connect patients and doctors and simplify appointment management.
+
+```text
+React
+Tailwind CSS
+Node.js
+Express.js
+MongoDB Atlas
+JWT
+Cloudinary
+Razorpay
+```
+
+**Key Features**
+
+* 👨‍⚕️ Doctor management
+* 👤 Patient workflows
+* 📅 Appointment booking
+* 🔐 Authentication & authorization
+* 💳 Online payments
+* ☁️ Cloud image management
+* 🚀 Full-stack deployment
 
 ---
 
-### 🔗 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-turkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/PranavTurkar13)
+## 💼 JobPilot
+
+**Job & Recruitment Platform**
+
+A recruitment-focused application designed to make discovering and managing job opportunities easier.
+
+```text
+React
+Node.js
+Express.js
+MongoDB
+JavaScript
+```
+
+---
+
+## ⚽ FIFA Manager
+
+**Football Management System**
+
+A Python-based FIFA management application where users can explore players, purchase players and manage their team.
+
+```text
+Python
+Tkinter
+MongoDB
+```
+
+---
+
+## 🎬 Movie Recommendation System
+
+A movie recommendation application that uses movie data to provide personalized recommendations.
+
+```text
+Python
+Streamlit
+TMDB Dataset
+Recommendation Logic
+```
+
+---
+
+# 🧠 Currently Learning
+
+```bash
+$ cat learning.txt
+
+> LLM Engineering
+> Retrieval-Augmented Generation
+> Vector Databases
+> Prompt Engineering
+> Fine-Tuning
+> QLoRA
+> Generative AI
+> MLOps
+> GenAI System Design
+> Cloud Architecture
+```
+
+### My current direction
+
+```text
+                ┌──────────────────────┐
+                │ Software Engineering │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │ Full-Stack Development│
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │ Backend & APIs       │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │ AI / Generative AI   │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │ LLM Engineering      │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │ Production AI Systems│
+                └──────────────────────┘
+```
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💻 Developer Philosophy
+
+```javascript
+while (alive) {
+
+    learn();
+    build();
+    experiment();
+    fail();
+    debug();
+    improve();
+
+}
+```
+
+> **Don't just learn technologies. Build with them.**
+
+---
+
+# ⚽ Beyond Code
+
+When I'm not coding:
+
+* ⚽ Playing & watching football
+* 🏏 Watching cricket
+* 🎬 Movies & TV series
+* 💡 Exploring new technologies
+* 🧠 Learning something new
+
+And yes...
+
+```text
+        SIUUUUUUUUUU ⚡
+              Cristiano Ronaldo
+```
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Thanks for visiting my profile 👨‍💻`
+
+**Keep coding. Keep building. Keep improving. 🚀**
+
+</div>
